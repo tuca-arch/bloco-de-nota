@@ -48,7 +48,7 @@ export default function Index(){
             />
 
             <Text style={styles.title}>Entrar</Text>
-            <Text style={styles.subtitle}>acesse a sua conta com e-mail e senha.</Text>
+            <Text style={styles.subtitle}>acesse a sua conta dfgdfgdfgdfgdgdfcom e-mail e senha.</Text>
             <View style={styles.form}>
                 <Input placeholder="E-mail" keyboardType="email-address"/>
                 <Input placeholder="Senha"  secureTextEntry />
